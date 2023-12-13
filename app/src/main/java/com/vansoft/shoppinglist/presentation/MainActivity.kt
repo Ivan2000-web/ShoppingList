@@ -1,7 +1,8 @@
-package com.vansoft.shoppinglist
+package com.vansoft.shoppinglist.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.vansoft.shoppinglist.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
